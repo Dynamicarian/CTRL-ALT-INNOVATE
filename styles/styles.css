@@ -111,3 +111,27 @@ footer h1, footer h2, footer h3 {
 .footer-links a:hover {
     color: white;
 }
+
+#Jobs {
+    width: 100%;
+    padding: 10px;
+}
+
+
+section {
+    width: 70%;
+    height: 800px;
+    /*border: 1px dashed green;*/
+}
+  
+aside {
+    width: 25%;
+    height: 800px;
+    /*border: 1px dashed blue;*/
+    float: right
+}
+
+#Jobs.footer-links {
+    display: flex;
+    align-items: center;
+}

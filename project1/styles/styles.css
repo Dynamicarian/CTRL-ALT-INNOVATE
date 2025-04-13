@@ -564,7 +564,7 @@ table tbody tr:hover a {
     font-size: xx-large;
 }
 
-section { /*sets size and formatting for 
+section { /*sets size and formatting for section*/
     width: 55vw;
     max-width: 55vw;
     flex: 1;
